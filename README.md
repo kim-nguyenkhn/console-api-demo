@@ -5,6 +5,6 @@ Heavily inspired by Arekanwo's article [Getting creative with the Console API](h
 ## Try it out
 
 ```shell
-git clone 
+git clone https://github.com/kim-nguyenkhn/console-api-demo.git
 npm start
 ```
